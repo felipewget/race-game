@@ -1,0 +1,12 @@
+type LeaderBoard {
+    name: String!
+    seconds: Int!
+}
+
+type Query {
+    listRank: [LeaderBoard!]
+}
+
+type Mutation {
+    addLeaderBoard( name: String, seconds: Int ): LeaderBoard!
+}

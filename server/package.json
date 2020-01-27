@@ -1,0 +1,23 @@
+{
+  "name": "Race-Game-Server",
+  "version": "1.0.0",
+  "description": "Servidor do Jogo de Corrida",
+  "main": "app.js",
+  "scripts": {
+    "run": "node app",
+    "watch": "nodemon app",
+    "test": "node app/tests/test.js"
+  },
+  "dependencies": {
+    "consign": "^0.1.6",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "graphql-yoga": "^1.18.3",
+    "mongodb": "^2.2.36",
+    "mysql": "^2.18.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "author": "Felipe Rodrigues Oliveira",
+  "license": "ISC"
+}
