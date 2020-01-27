@@ -1,13 +1,5 @@
 # Race Game
 
-<img src="./galery/img1.png" width="50%" align="left"/>
-<img src="./galery/img2.png" width="50%" align="left"/>
-<img src="./galery/img3.png" width="50%" align="left"/>
-<img src="./galery/img4.png" width="50%" align="left"/>
-<img src="./galery/img5.png" width="50%" align="left"/>
-
----
-
 É um jogo de corrida multiplayer que esta em desenvolvimento, ele se divide basicamente em 2 telas
 
 * Home Page
@@ -17,6 +9,10 @@
 * Pagina de Corrida
     - Copiar o link e passar pra outras pessoas, para que elas possam se conectar a sala e jogar no modo multiplayer
     - Iniciar, terminar e jogar a corridar
+
+<img src="./galery/img1.png" width="33%" align="left" />
+<img src="./galery/img2.png" width="33%" align="left" />
+<img src="./galery/img3.png" width="33%" align="left" />
 
 ### Tecnologias Utilizadas
 
@@ -110,6 +106,15 @@ Executar a aplicação, é simples, basta:
 ### Executando Testes Unitaários
 
 ## @TODO
+
+
+### Galeria
+
+<img src="./galery/img1.png" width="100%" />
+<img src="./galery/img2.png" width="100%" />
+<img src="./galery/img3.png" width="100%" />
+<img src="./galery/img4.png" width="100%" />
+<img src="./galery/img5.png" width="100%" />
 
 License
 ----
