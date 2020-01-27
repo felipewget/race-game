@@ -51,7 +51,10 @@ As tecs usadas foram:
 
 ### Video Preview
 
-aki vai ter um video
+Clique na imagem para abrir no youtube
+
+[![Clique aqui](https://img.youtube.com/vi/ngOzsTt5mAw/0.jpg)](https://www.youtube.com/watch?v=ngOzsTt5mAw)
+
 
 ### Dependencias
 
