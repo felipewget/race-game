@@ -10,10 +10,6 @@
     - Copiar o link e passar pra outras pessoas, para que elas possam se conectar a sala e jogar no modo multiplayer
     - Iniciar, terminar e jogar a corridar
 
-<img src="./galery/img1.png" width="33%" align="left" />
-<img src="./galery/img2.png" width="33%" align="left" />
-<img src="./galery/img3.png" width="33%" align="left" />
-
 ### Tecnologias Utilizadas
 
 As tecs usadas foram:
