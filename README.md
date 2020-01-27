@@ -1,10 +1,12 @@
 # Race Game
 
-<img src="./galery/img1.png" width="33%" align="left"/>
-<img src="./galery/img2.png" width="33%" align="left"/>
-<img src="./galery/img3.png" width="33%" align="left"/>
-<img src="./galery/img4.png" width="33%" align="left"/>
-<img src="./galery/img5.png" width="33%" align="left"/>
+<img src="./galery/img1.png" width="50%" align="left"/>
+<img src="./galery/img2.png" width="50%" align="left"/>
+<img src="./galery/img3.png" width="50%" align="left"/>
+<img src="./galery/img4.png" width="50%" align="left"/>
+<img src="./galery/img5.png" width="50%" align="left"/>
+
+---
 
 É um jogo de corrida multiplayer que esta em desenvolvimento, ele se divide basicamente em 2 telas
 
