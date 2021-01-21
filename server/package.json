@@ -15,7 +15,7 @@
     "graphql-yoga": "^1.18.3",
     "mongodb": "^2.2.36",
     "mysql": "^2.18.1",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {},
   "author": "Felipe Rodrigues Oliveira",
